@@ -1,0 +1,9 @@
+D:\GIT\CSharp-001\Equation2\Equation2\bin\Debug\Equation2.exe.config
+D:\GIT\CSharp-001\Equation2\Equation2\bin\Debug\Equation2.exe
+D:\GIT\CSharp-001\Equation2\Equation2\bin\Debug\Equation2.pdb
+D:\GIT\CSharp-001\Equation2\Equation2\obj\Debug\Equation2.csprojResolveAssemblyReference.cache
+D:\GIT\CSharp-001\Equation2\Equation2\obj\Debug\Equation2.Form1.resources
+D:\GIT\CSharp-001\Equation2\Equation2\obj\Debug\Equation2.Properties.Resources.resources
+D:\GIT\CSharp-001\Equation2\Equation2\obj\Debug\Equation2.csproj.GenerateResource.Cache
+D:\GIT\CSharp-001\Equation2\Equation2\obj\Debug\Equation2.exe
+D:\GIT\CSharp-001\Equation2\Equation2\obj\Debug\Equation2.pdb
